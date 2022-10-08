@@ -23,7 +23,7 @@ MAX_DAYS_OLD = 5  # <= CHANGE THIS
 RESULTS_PER_PAGE = 200  # <= CHANGE THIS
 
 # Adjust for performance
-MAX_THREADS = 50
+MAX_THREADS = 50  # <= CHANGE THIS
 
 
 # ============================================================================== #
