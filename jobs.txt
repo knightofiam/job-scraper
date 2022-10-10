@@ -1,0 +1,45 @@
+2022-10-10 00:31:19.237455
+
+Searched 4,053 java jobs across 21 pages @ 200 results per page, using 21 threads.
+
+Found 6 java jobs,
+Posted within the last 30 days,
+Within your industry: Telecom
+Matching your specific skills: enterprisesecurity
+(Search took 65 seconds.)
+
+1.
+Company: Tuebora Software Private Limited
+Industry: Telecom
+Skills: docker,sql,database,java,python,enterprisesecurity
+Posted: 2022-10-08 (2 days ago)
+
+2.
+Company: Sequretek
+Industry: Telecom
+Skills: security,java,bigdata,python,informationmanagement,enterprisesecurity,problemsolving
+Posted: 2022-10-08 (2 days ago)
+
+3.
+Company: Palo Alto Networks  ( India )  Pvt. Ltd.
+Industry: Telecom
+Skills: java,apache,devops,api,python,enterprisesecurity,cassandra,scala,technologyleadership,storage,sql,database,security,c
+Posted: 2022-10-06 (few days ago)
+
+4.
+Company: Palo Alto Networks  ( India )  Pvt. Ltd.
+Industry: Telecom
+Skills: java,apache,devops,api,python,enterprisesecurity,cassandra,scala,technologyleadership,storage,sql,security,database,c,machinelearning,infrastructure
+Posted: 2022-10-06 (few days ago)
+
+5.
+Company: Sonicwall Inc.
+Industry: Telecom
+Skills: c,vb.net,java,codereview,loganalysis,nmap,itsecurity,enterprisesecurity,vulnerability,ids,databaseservers,ceh,securityanalyst,vulnerabilityassessment,sql,nessus,security,penetrationtesting
+Posted: 2022-10-06 (few days ago)
+
+6.
+Company: Sonicwall Inc.
+Industry: Telecom
+Skills: c,vb.net,java,codereview,loganalysis,nmap,itsecurity,enterprisesecurity,vulnerability,ids,databaseservers,ceh,securityanalyst,vulnerabilityassessment,sql,nessus,security,penetrationtesting
+Posted: 2022-10-06 (few days ago)
