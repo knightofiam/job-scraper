@@ -1,45 +1,65 @@
-2022-10-10 00:31:19.237455
+2022-10-11 02:06:02.765741
 
-Searched 4,053 java jobs across 21 pages @ 200 results per page, using 21 threads.
+Searched 1,247 java jobs across 7 pages @ 200 results per page, using 7 threads.
 
-Found 6 java jobs,
+Found 8 java jobs,
 Posted within the last 30 days,
-Within your industry: Telecom
-Matching your specific skills: enterprisesecurity
-(Search took 65 seconds.)
+Within your industry: Software Services,
+Matching your specific skills: git, mongodb.
+(Search took 23 seconds.)
 
 1.
-Company: Tuebora Software Private Limited
-Industry: Telecom
-Skills: docker,sql,database,java,python,enterprisesecurity
-Posted: 2022-10-08 (2 days ago)
+Company: Infosys Technologies Ltd
+Industry: Software Services
+Skills: informationtechnology,html5,technologyanalyst,ajax,jquery,sql,docker,spring,react.js,java,git,projectlifecycle,mongodb,rest,globaldelivery,github,javascript,nosql,springboot,node.js,express.js,soap
+Posted: 2022-10-09 (2 days ago)
+Link: https://www.timesjobs.com/job-detail/java-fullstack-developer-infosys-technologies-ltd-2-to-5-yrs-jobid-AtCe__PLUS__DI2RuNzpSvf__PLUS__uAgZw==&source=srp
 
 2.
-Company: Sequretek
-Industry: Telecom
-Skills: security,java,bigdata,python,informationmanagement,enterprisesecurity,problemsolving
-Posted: 2022-10-08 (2 days ago)
+Company: Infosys Technologies Ltd
+Industry: Software Services
+Skills: spring,java,devops,mysql,oracle,maven,javascript,javadeveloper,nosql,bootstrap,mockito,sql,docker,git,mongodb,rest,junit,ant,springboot,writtencommunication,forms
+Posted: 2022-10-07 (few days ago)
+Link: https://www.timesjobs.com/job-detail/senior-developer-java-fullstack-infosys-technologies-ltd-sweden-8-to-12-yrs-jobid-o__PLUS__XrThhZV__PLUS__NzpSvf__PLUS__uAgZw==&source=srp
 
 3.
-Company: Palo Alto Networks  ( India )  Pvt. Ltd.
-Industry: Telecom
-Skills: java,apache,devops,api,python,enterprisesecurity,cassandra,scala,technologyleadership,storage,sql,database,security,c
-Posted: 2022-10-06 (few days ago)
+Company: Quest Global Engineering Pvt Ltd
+Industry: Software Services, Internet/Dot com/ISP
+Skills: hosting,storage,docker,sql,java,git,mongodb,vms,c#,github,cloudservices,.net,databaseservers
+Posted: 2022-10-07 (few days ago)
+Link: https://www.timesjobs.com/job-detail/kubernetes-engineer-test-automation-quest-global-engineering-pvt-ltd-thiruvananthapuram-5-to-6-yrs-jobid-oNpY7hpc8apzpSvf__PLUS__uAgZw==&source=srp
 
 4.
-Company: Palo Alto Networks  ( India )  Pvt. Ltd.
-Industry: Telecom
-Skills: java,apache,devops,api,python,enterprisesecurity,cassandra,scala,technologyleadership,storage,sql,security,database,c,machinelearning,infrastructure
-Posted: 2022-10-06 (few days ago)
+Company: Quest Global Engineering Pvt Ltd
+Industry: Software Services, Internet/Dot com/ISP
+Skills: css,html5,apache,java,xml,devops,mysql,oracle,xamarin,apachecordova,javascript,linq,jsp,hibernate,database,git,json,debugging,mongodb,entityframework,weblogic,problemsolving,svn
+Posted: 2022-10-07 (few days ago)
+Link: https://www.timesjobs.com/job-detail/technical-architect-full-stack-quest-global-engineering-pvt-ltd-thiruvananthapuram-10-to-13-yrs-jobid-__SLASH__yxDtY2RTWFzpSvf__PLUS__uAgZw==&source=srp
 
 5.
-Company: Sonicwall Inc.
-Industry: Telecom
-Skills: c,vb.net,java,codereview,loganalysis,nmap,itsecurity,enterprisesecurity,vulnerability,ids,databaseservers,ceh,securityanalyst,vulnerabilityassessment,sql,nessus,security,penetrationtesting
-Posted: 2022-10-06 (few days ago)
+Company: Larsen & Toubro Infotech Ltd
+Industry: Software Services
+Skills: fundamentals,orchestration,hibernate,docker,spring,security,java,git,linux,softwareengineer,softwareengineering,mysql,mongodb,rest,oracle,os,maven,nosql,gradle,soap
+Posted: 2022-10-07 (few days ago)
+Link: https://www.timesjobs.com/job-detail/software-engineer-larsen-toubro-infotech-ltd-0-to-3-yrs-jobid-PuN0ocEOoGlzpSvf__PLUS__uAgZw==&source=srp
 
 6.
-Company: Sonicwall Inc.
-Industry: Telecom
-Skills: c,vb.net,java,codereview,loganalysis,nmap,itsecurity,enterprisesecurity,vulnerability,ids,databaseservers,ceh,securityanalyst,vulnerabilityassessment,sql,nessus,security,penetrationtesting
-Posted: 2022-10-06 (few days ago)
+Company: Infosys Technologies Ltd
+Industry: Software Services
+Skills: principalconsultant,c,orchestration,salesforce,java,linuxadministration,devops,shellscripting,mysql,github,python,maven,nosql,groovy,cassandra,.net,hosting,docker,security,database,git,postgresql,mongodb
+Posted: 2022-10-07 (few days ago)
+Link: https://www.timesjobs.com/job-detail/site-reliability-principal-consultant-sre-infosys-technologies-ltd-10-to-13-yrs-jobid-Ckp4FPoFwuBzpSvf__PLUS__uAgZw==&source=srp
+
+7.
+Company: Infosys Technologies Ltd
+Industry: Software Services
+Skills: html5,java,devops,webapi,mysql,oracle,nosql,applicationsupport,.net,bootstrap,sql,docker,git,mvc,mongodb,rest,writtencommunication,forms
+Posted: 2022-10-07 (few days ago)
+Link: https://www.timesjobs.com/job-detail/technology-lead-net-full-stack-infosys-technologies-ltd-sweden-0-to-3-yrs-jobid-wcWMLlhlFMBzpSvf__PLUS__uAgZw==&source=srp
+
+8.
+Company: Larsen & Toubro Infotech Ltd
+Industry: Software Services
+Skills: html5,storage,bootstrap,vb.net,jquery,sql,database,git,java,mongodb,c#,oracle,entityframework,svn,javascript,node.js,cassandra,.net
+Posted: 2022-10-05 (6 days ago)
+Link: https://www.timesjobs.com/job-detail/senior-specialist-cloud-engineering-larsen-toubro-infotech-ltd-mumbai-7-to-12-yrs-jobid-x7xXSvyDBVpzpSvf__PLUS__uAgZw==&source=srp
