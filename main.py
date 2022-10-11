@@ -128,9 +128,9 @@ def scrape_html(url):
     return BeautifulSoup(requests.get(url).text, "lxml")
 
 
-# Get the full url with modified content/query parameters, ready for scraping
+# Get the full url with modified content/query parameters, ready for scraping.
 def get_url(user_prefs, page_number=1, results_per_page_override=None):
-    # results_per_page usually comes from user_prefs, but can be overriden, e.g., if only 1 page of results is needed.
+    # results_per_page usually comes from user_prefs, but can be overriden, e.g., if only 1 result is needed.
     results_per_page = user_prefs["results_per_page"] if not results_per_page_override else results_per_page_override
     search_keywords = user_prefs["search_keywords"]
     industry = user_prefs["industry"]
